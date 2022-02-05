@@ -1,0 +1,16 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "Discord bot simplified.",
+  "main": "index.js",
+  "scripts": {
+    "test": "!help"
+  },
+  "author": "xkxo",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "fs": "^0.0.1-security",
+    "mysql": "^2.18.1"
+  }
+}
